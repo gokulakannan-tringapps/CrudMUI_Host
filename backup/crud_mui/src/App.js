@@ -1,5 +1,5 @@
 import Crud_Layout from './Crud_MUI';
-
+import './App.css';
 import AppBar from '@mui/material/AppBar';
 import Typography from '@mui/material/Typography';
 
