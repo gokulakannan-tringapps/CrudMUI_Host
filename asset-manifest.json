@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CrudMUI_Host/static/css/main.e6c13ad2.css",
+    "main.js": "/CrudMUI_Host/static/js/main.fb3d6418.js",
+    "static/js/787.7fad7a2e.chunk.js": "/CrudMUI_Host/static/js/787.7fad7a2e.chunk.js",
+    "index.html": "/CrudMUI_Host/index.html",
+    "main.e6c13ad2.css.map": "/CrudMUI_Host/static/css/main.e6c13ad2.css.map",
+    "main.fb3d6418.js.map": "/CrudMUI_Host/static/js/main.fb3d6418.js.map",
+    "787.7fad7a2e.chunk.js.map": "/CrudMUI_Host/static/js/787.7fad7a2e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.fb3d6418.js"
+  ]
+}
